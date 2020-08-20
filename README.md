@@ -1,2 +1,2 @@
 # form-validation-by-vanilla-js
-Created with CodeSandbox
+Basic Vanilla.js form validation download or checkout link to CodeSandox
